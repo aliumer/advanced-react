@@ -1,0 +1,5 @@
+https://anyrest.wordpress.com/2012/01/16/how-to-render-mvc-view-on-a-modal-popup-window/
+https://stackoverflow.com/questions/54277982/modal-pop-up-in-mvc-5/54283974
+https://www.codeproject.com/Questions/1160761/How-to-open-a-MVC-view-in-a-new-popup-window-from
+https://www.hostinger.com/tutorials/basic-git-commands?_ga=2.231411032.636705273.1569920538-2131182406.1567594587
+https://www.hostinger.co.uk/tutorials/how-to-rename-a-git-branch/
