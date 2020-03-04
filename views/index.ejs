@@ -5,8 +5,11 @@
         Advance React Application Example.
     </title>
 </head>
+<script type="text/javascript">
+  window.initialData = JSON.stringify(initialContent)
+</script>
 <body>
-    <div id="root"><%- initialContent %></div>
+    <div id="root"><%- initialData %></div>
 </body>
 
 <script src="/bundle.js" charset="utf-8"></script>
