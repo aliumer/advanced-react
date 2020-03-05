@@ -1,16 +1,22 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-    <title>
-        Advance React Application Example.
-    </title>
+  <title>
+    Advance React Application Example.
+  </title>
+  <script type="text/javaScript">
+    window.initialData = <%- JSON.stringify(initialData) -%>
+  </script>
+
 </head>
-<script type="text/javascript">
-  window.initialData = JSON.stringify(initialContent)
-</script>
+
 <body>
-    <div id="root"><%- initialData %></div>
+
+  <div id="root"><%- initialMarkup %></div>
+
 </body>
 
 <script src="/bundle.js" charset="utf-8"></script>
+
 </html>
